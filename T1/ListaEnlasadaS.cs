@@ -31,7 +31,7 @@ namespace T1
             }
         }
 
-        ´public NodoS buscar(string marca)
+        public NodoS buscar(string marca)
         {
             NodoS actual = primero;
             while (actual != null)
